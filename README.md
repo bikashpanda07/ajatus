@@ -1,4 +1,4 @@
 # ajatus
 this is 1st repo in ajatus.
-author-Bikash kumar panda
 <br>
+author-Bikash kumar panda
